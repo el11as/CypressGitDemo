@@ -3,8 +3,8 @@
 
 let user              = 'bsegura@informat.cl'
 let password          = 'uwigo2511'
-let rut_empresa       = '76.986.714-7'
-let pass 			  = 'rideshop'
+let rut_empresa       = '7.376.643-5'
+let pass 			        = 'rideshop'
 let correo 		      = 'prueba@informat.cl'
 let celu 	          = '61628765'
 let telefono    	  = '1234556'
